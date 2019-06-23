@@ -1,4 +1,6 @@
 Cervical-Cancer-Prediction
 
-Here we are trying to predict the risk for cervical cancer using different bagging and boosting algorithms. The data is taken from UCI data repository, below is the link https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29
+Here we are trying to predict the risk for cervical cancer using different bagging and boosting algorithms.
+The data is taken from UCI data repository, below is the link
+https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29
 
