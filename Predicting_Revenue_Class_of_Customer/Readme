@@ -1,0 +1,11 @@
+
+Predicting-Revenue-class-of-customers
+
+A financial institution has provided stock trading service to its customers and charges percentage based commission as 
+the service costs significant amount to institution. But similar service is provided by the competators, so it decided 
+to give discounts. But some of the customers do not trade in large quantities. Given discounts to them will hamper the profits.
+
+Here we are trying to predict which customers are potentially eligible for discounts on stock trading facility provided 
+by the institution.
+
+
