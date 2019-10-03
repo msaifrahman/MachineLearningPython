@@ -1,0 +1,7 @@
+Predicting Productivity of Blast Furnace
+
+A Steel manufacturer wants to find out the optimum values for the input parameters which both maximizes his blast furnace and 
+also minimizes his carbon footprint. To this end, they have gathered data over a long period of days and tabulated them. 
+They have approached us to provide them with an:
+•	Appropriate model which can identify these parameters for their further investigation.
+•	Using the data we need to build a model which can predict Productivity

@@ -1,0 +1,6 @@
+Pima Indians Diabetes
+
+Here we are trying to predict the risk for diabetes of Pima Indians using different bagging and boosting algorithms. 
+The data is taken from Kaggle, below is the link 
+
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
