@@ -2,5 +2,4 @@
 
 Multiclass classification Problem
 
-This project is about predicting if  a driver is distracted in a given image while driving which is further classified into 10 different
-categories, such as whether he is using Mobile device, eating, drinking , talking on mobile, playing music,e.t.c
+This project is about predicting if  a driver is distracted in a given image while driving which is further classified into 10 different categories, such as whether he is using Mobile device, eating, drinking , talking on mobile, playing music,e.t.c
