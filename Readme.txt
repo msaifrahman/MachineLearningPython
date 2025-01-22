@@ -7,3 +7,4 @@ Projects includes
 3. Productivity of Blast furnace
 4. Stackoverflow tag Prediction
 5. NaturalDisaster prediction (wildfires, earthquakes etc)
+6. Pima Indians Diabetes prediction
