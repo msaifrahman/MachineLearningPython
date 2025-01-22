@@ -6,3 +6,4 @@ Projects includes
 2. Distracted Driver Prediction
 3. Productivity of Blast furnace
 4. Stackoverflow tag Prediction
+5. Pima Indian Diabetes Prediction
